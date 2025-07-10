@@ -7,7 +7,9 @@
 
 ## English Version
 
-A customer segmentation project based on Brazilian e-commerce data, combining RFM modeling, KMeans clustering, and LightGBM simulation.
+A customer segmentation project based on Brazilian e-commerce data, combining RFM modeling, KMeans clustering, and LightGBM simulation. 
+
+[Kaggle Notebook Link](https://www.kaggle.com/code/yiquanxiao/brazilian-e-commerce-customer-segmentation)
 
 ---
 
@@ -83,6 +85,8 @@ pip install -r requirements.txt
 ## 中文说明
 
 一个基于巴西电商数据的用户分层项目，结合 RFM 规则建模、KMeans 聚类与 LightGBM 模拟，实现用户画像构建与实时打标签。
+
+[Kaggle Notebook Link](https://www.kaggle.com/code/yiquanxiao/brazilian-e-commerce-customer-segmentation)
 
 ---
 
